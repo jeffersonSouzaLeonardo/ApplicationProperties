@@ -1,0 +1,5 @@
+
+- Neste prototipo estou simulando o uso do application.properties e @ConfigurationProperties
+
+- Todas as propriedades estão neste documento:
+https://docs.spring.io/spring-boot/appendix/application-properties/index.html#appendix.application-properties.actuator
